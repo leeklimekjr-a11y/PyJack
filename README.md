@@ -1,0 +1,2 @@
+# PyJack
+Blackjack strategy simulator
